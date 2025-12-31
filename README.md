@@ -15,6 +15,7 @@ A pure Python reverse engineering framework for ELF/x86-64 binary analysis.
 ## Installation
 
 ```bash
+you dont need to do this 
 cd /home/licht/Desktop/mandem
 python3 -m pip install -e .
 ```
