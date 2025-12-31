@@ -1,0 +1,12 @@
+# RE Framework Requirements
+#
+# This framework is designed to use only the Python standard library.
+# No external dependencies are required for core functionality.
+#
+# Optional dependencies for enhanced features:
+
+# None required - pure Python implementation!
+
+# For development/testing:
+# pytest>=7.0.0
+# mypy>=1.0.0
