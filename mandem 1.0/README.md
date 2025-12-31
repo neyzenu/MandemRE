@@ -1,4 +1,4 @@
-# RE Framework v0.2.0
+# RE Framework v1.0
 
 A pure Python reverse engineering framework for ELF/x86-64 binary analysis.
 
